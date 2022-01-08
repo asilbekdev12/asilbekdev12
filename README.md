@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asilbekdev12
+- 👋 Hi, I’m Asilbek
 - 👀 I’m interested in Sap Development.
 - 🌱 I’m currently learning Javascript.
 - 💻 I’m looking to collaborate on html, css, js projects.
