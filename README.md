@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Asilbek
 - 👀 I’m interested in Sap Development.
-- 🌱 I’m currently learning Javascript.
-- 💻 I’m looking to collaborate on html, css, js projects.
+- 🌱 I’m currently learning ABAP.
 - 📫 How to reach me asilbekdev1213@gmail.com t.me/A_Dreefx
 <!---
 asilbekdev12/asilbekdev12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
