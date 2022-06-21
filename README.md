@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asilbek
-- 👀 I’m interested in Sap Development.
+- 👀 I’m interested in SAP Development.
 - 🌱 I’m currently learning ABAP.
 - 📫 How to reach me asilbekbakhtiyarjanovich@gmail.com t.me/A_Dreefx
 <!---
